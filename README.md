@@ -14,9 +14,9 @@ $ npm install rain.css -S
 
 **CDN:**
 
-推荐使用方法
+推荐使用方法：
 
-还可以通过 [unpkg.com/rain.css](https://unpkg.com/rain.css) 获取到最新版本的资源，在页面上使用 `link` 标签引入后即可开始使用.
+还可以通过 [unpkg.com/rain.css](https://unpkg.com/rain.css) 获取到最新版本的资源，在页面上使用 `link` 标签引入后即可开始使用。
 
 ```html
 <link rel="stylesheet" href="https://unpkg.com/rain.css"></link>
