@@ -1,0 +1,33 @@
+{
+  "name": "rain.css",
+  "version": "0.0.2",
+  "description": "Custom CSS styles",
+  "main": "src/main.scss",
+  "unpkg": "dist/output.min.css",
+  "scripts": {
+    "build-expanded": "sass --no-source-map ./src/main.scss ./dist/output.css",
+    "build-compressed": "sass --no-source-map -s compressed ./src/main.scss ./dist/output.min.css",
+    "build": "npm run build-expanded && npm run build-compressed",
+    "analysis": "cat ./dist/output.min.css | wallace",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rainbow-design/rain.css.git"
+  },
+  "keywords": [
+    "css",
+    "stylesheet",
+    "rain"
+  ],
+  "author": "yanyue404",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainbow-design/rain.css/issues"
+  },
+  "homepage": "https://github.com/rainbow-design/rain.css#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "sass": "^1.26.10"
+  }
+}
