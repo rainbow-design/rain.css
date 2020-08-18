@@ -24,12 +24,12 @@ $ npm install rain.css -S
 
 ## 源码
 
-- [`reset.scss`](./src/styles/reset.scss)
-- `flex.scss`
-- `utils.scss`
-- `color.scss`
-- `media.scss`
-- `animate.scss`
+- [reset.scss](./src/styles/reset.scss)
+- [flex.scss](./src/styles/flex.scss)
+- [utils.scss](./src/styles/utils.scss)
+- [color.scss](./src/styles/color.scss)
+- [media.scss](./src/styles/media.scss)
+- [animate.scss](./src/styles/animate.scss)
 
 ## 参考
 

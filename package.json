@@ -1,6 +1,6 @@
 {
   "name": "rain.css",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Custom CSS styles",
   "main": "src/main.scss",
   "unpkg": "dist/output.min.css",
