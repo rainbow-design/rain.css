@@ -2,15 +2,34 @@
 
 [![NPM version](https://img.shields.io/npm/v/rain.css.svg?style=flat)](https://www.npmjs.com/package/rainbow.css)
 
-## 内容
+自定义 `Css styles`
 
-自定义`Css styles`
+## 使用
 
-- `reset.css`
-- `flex.css`
-- `utils.css`
-- `color.css`
-- `media.css`
+**npm:**
+
+```bash
+$ npm install rain.css -S
+```
+
+**CDN:**
+
+推荐使用方法
+
+还可以通过 [unpkg.com/rain.css](https://unpkg.com/rain.css) 获取到最新版本的资源，在页面上使用 `link` 标签引入后即可开始使用.
+
+```html
+<link rel="stylesheet" href="https://unpkg.com/rain.css"></link>
+```
+
+## 源码
+
+- [`reset.scss`](./src/styles/reset.scss)
+- `flex.scss`
+- `utils.scss`
+- `color.scss`
+- `media.scss`
+- `animate.scss`
 
 ## 参考
 
