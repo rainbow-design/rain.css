@@ -1,6 +1,6 @@
 ## Rain.css
 
-[![NPM version](https://img.shields.io/npm/v/rain.css.svg?style=flat)](https://www.npmjs.com/package/rainbow.css)
+[![NPM version](https://img.shields.io/npm/v/rain.css.svg?style=flat)](https://www.npmjs.com/package/rain.css)
 
 自定义 `Css styles`
 
